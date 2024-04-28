@@ -1,0 +1,72 @@
+body
+{
+    background-color: gray;
+}
+.left
+{
+    width:35%;
+    padding-left: 2rem;
+    background-color: rgb(187, 47, 47);
+}
+a
+{
+    text-decoration: none;
+}
+.whole
+{   
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10%;
+    margin-left: 20%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width:60%;
+    justify-content: center;
+    align-content: center;
+}
+.face
+{
+    background-color: rgb(66, 66, 255);
+    width: 13rem;   
+}
+.google
+{
+    background-color: rgb(248, 127, 75);
+    width: 13rem;
+}
+.twitter
+{
+    background-color: rgb(122, 185, 252);   
+    width: 13rem;
+}
+.right
+{
+    width: 35%;
+    background-color:rgb(255, 255, 255);
+    padding-left: 2rem;
+}
+.color
+{
+    color:rgb(187, 47, 47);
+}
+hr
+{
+    width: 15rem;
+    margin: 0 2rem 0 0;
+
+}
+@media all and (max-width:801px)
+{  
+     .left
+    {
+        width:40%;
+        padding-left: 2rem;
+        background-color: rgb(187, 47, 47);   
+    }
+    .right
+    {
+    width: 35%;
+    background-color:rgb(255, 255, 255);
+    padding-left: 2rem;
+    }
+} 

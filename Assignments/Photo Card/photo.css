@@ -1,0 +1,18 @@
+.container
+{
+    text-align: center;
+    
+}
+img
+{
+    width: 60rem;
+}
+figcaption
+{
+    width:60rem;
+    height:4rem;
+    padding-top: 2rem;
+   font-size: 150%;
+   background-color: gray;
+   margin-left: 14.5rem;
+}

@@ -1,0 +1,17 @@
+fieldset
+{
+    width: 45%;
+    position: relative;
+    left:25%;
+    
+}
+.check
+{
+    top: 0;
+}
+form
+{
+    padding:7%;
+    background-color: bisque;
+  
+}

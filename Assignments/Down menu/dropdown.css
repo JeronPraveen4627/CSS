@@ -1,0 +1,41 @@
+.container
+{
+    
+    background-color: black;
+    justify-content: center;
+    width: 90%;
+    display:flex;
+}
+
+.sync
+{
+    color:white;
+    padding-left: 2rem;
+    width:20%;
+    float: left;
+}
+.right
+{
+    color:white;
+    width: 60%;
+    font-size: 120%;
+    float:right;
+}
+
+li 
+{
+    margin: 2%;
+    list-style-type: none;
+    display: block;
+    display: inline;
+
+}
+a
+{
+    color: white;
+    text-decoration: none;
+}
+li:hover
+{
+    background-color:gray;
+}

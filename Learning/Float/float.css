@@ -1,0 +1,20 @@
+
+.main
+{
+    width:80%;
+    margin:0 auto;
+    float:left;
+}
+img
+{
+    float: left;
+    margin:0.50rem;
+}
+.side
+{
+    float:right;
+}
+fieldset
+{
+    background-color: azure;
+}
